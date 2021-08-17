@@ -1,0 +1,141 @@
+[INFO ] 2021-04-06 16:23:09.846 [main] UmsApplication - Starting UmsApplication using Java 14.0.1 on Windows10 with PID 15096 (C:\Users\Admin\Desktop\MACS\project\group-11\UMS\build\classes\java\main started by Admin in C:\Users\Admin\Desktop\MACS\project\group-11\UMS)
+[DEBUG] 2021-04-06 16:23:09.854 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-06 16:23:09.855 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-06 16:24:25.564 [main] UmsApplication - Started UmsApplication in 76.447 seconds (JVM running for 77.98)
+[INFO ] 2021-04-06 16:32:25.817 [main] UmsApplication - Starting UmsApplication using Java 14.0.1 on Windows10 with PID 10416 (C:\Users\Admin\Desktop\MACS\project\group-11\UMS\build\classes\java\main started by Admin in C:\Users\Admin\Desktop\MACS\project\group-11\UMS)
+[DEBUG] 2021-04-06 16:32:25.822 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-06 16:32:25.824 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-06 16:33:44.347 [main] UmsApplication - Started UmsApplication in 78.959 seconds (JVM running for 80.671)
+[INFO ] 2021-04-06 17:56:15.786 [main] UmsApplication - Starting UmsApplication using Java 14.0.1 on Windows10 with PID 5496 (C:\Users\Admin\Desktop\MACS\project\group-11\UMS\build\classes\java\main started by Admin in C:\Users\Admin\Desktop\MACS\project\group-11\UMS)
+[DEBUG] 2021-04-06 17:56:15.791 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-06 17:56:15.792 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-06 17:57:31.991 [main] UmsApplication - Started UmsApplication in 76.6 seconds (JVM running for 77.755)
+<<<<<<< HEAD
+[INFO ] 2021-04-08 12:12:27.620 [main] UmsApplication - Starting UmsApplication using Java 14.0.1 on Windows10 with PID 13464 (C:\Users\Admin\Desktop\MACS\project\group-11\UMS\build\classes\java\main started by Admin in C:\Users\Admin\Desktop\MACS\project\group-11\UMS)
+[DEBUG] 2021-04-08 12:12:27.626 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 12:12:27.627 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 12:12:35.810 [main] UmsApplication - Started UmsApplication in 8.712 seconds (JVM running for 10.234)
+[INFO ] 2021-04-08 12:14:34.106 [main] UmsApplication - Starting UmsApplication using Java 14.0.1 on Windows10 with PID 13692 (C:\Users\Admin\Desktop\MACS\project\group-11\UMS\build\classes\java\main started by Admin in C:\Users\Admin\Desktop\MACS\project\group-11\UMS)
+[DEBUG] 2021-04-08 12:14:34.113 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 12:14:34.114 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 12:14:42.281 [main] UmsApplication - Started UmsApplication in 8.719 seconds (JVM running for 10.136)
+[INFO ] 2021-04-08 12:19:06.857 [main] UmsApplication - Starting UmsApplication using Java 14.0.1 on Windows10 with PID 8976 (C:\Users\Admin\Desktop\MACS\project\group-11\UMS\build\classes\java\main started by Admin in C:\Users\Admin\Desktop\MACS\project\group-11\UMS)
+[DEBUG] 2021-04-08 12:19:06.863 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 12:19:06.864 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 12:19:14.503 [main] UmsApplication - Started UmsApplication in 8.16 seconds (JVM running for 10.239)
+[INFO ] 2021-04-08 14:17:20.943 [main] UmsApplication - Starting UmsApplication using Java 14.0.1 on Windows10 with PID 13504 (C:\Users\Admin\Desktop\MACS\project\group-11\UMS\build\classes\java\main started by Admin in C:\Users\Admin\Desktop\MACS\project\group-11\UMS)
+[DEBUG] 2021-04-08 14:17:20.950 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 14:17:20.954 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 14:17:30.128 [main] UmsApplication - Started UmsApplication in 9.766 seconds (JVM running for 11.256)
+[INFO ] 2021-04-08 14:33:17.032 [main] UmsApplication - Starting UmsApplication using Java 14.0.1 on Windows10 with PID 14072 (C:\Users\Admin\Desktop\MACS\project\group-11\UMS\build\classes\java\main started by Admin in C:\Users\Admin\Desktop\MACS\project\group-11\UMS)
+[DEBUG] 2021-04-08 14:33:17.037 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 14:33:17.038 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 14:33:25.535 [main] UmsApplication - Started UmsApplication in 9.566 seconds (JVM running for 11.15)
+[INFO ] 2021-04-08 14:34:41.612 [main] UmsApplication - Starting UmsApplication using Java 14.0.1 on Windows10 with PID 2200 (C:\Users\Admin\Desktop\MACS\project\group-11\UMS\build\classes\java\main started by Admin in C:\Users\Admin\Desktop\MACS\project\group-11\UMS)
+[DEBUG] 2021-04-08 14:34:41.617 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 14:34:41.618 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 14:34:49.409 [main] UmsApplication - Started UmsApplication in 8.427 seconds (JVM running for 10.114)
+<<<<<<< HEAD
+[INFO ] 2021-04-08 17:56:37.658 [main] UmsApplication - Starting UmsApplication using Java 14.0.1 on Windows10 with PID 6844 (C:\Users\Admin\Desktop\MACS\project\group-11\UMS\build\classes\java\main started by Admin in C:\Users\Admin\Desktop\MACS\project\group-11\UMS)
+[DEBUG] 2021-04-08 17:56:37.665 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 17:56:37.666 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 17:57:23.827 [main] UmsApplication - Starting UmsApplication using Java 14.0.1 on Windows10 with PID 12272 (C:\Users\Admin\Desktop\MACS\project\group-11\UMS\build\classes\java\main started by Admin in C:\Users\Admin\Desktop\MACS\project\group-11\UMS)
+[DEBUG] 2021-04-08 17:57:23.833 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 17:57:23.834 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 17:57:30.148 [main] UmsApplication - Started UmsApplication in 6.78 seconds (JVM running for 8.15)
+[INFO ] 2021-04-08 17:58:15.316 [main] UmsApplication - Starting UmsApplication using Java 14.0.1 on Windows10 with PID 1472 (C:\Users\Admin\Desktop\MACS\project\group-11\UMS\build\classes\java\main started by Admin in C:\Users\Admin\Desktop\MACS\project\group-11\UMS)
+[DEBUG] 2021-04-08 17:58:15.322 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 17:58:15.322 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 17:58:21.929 [main] UmsApplication - Started UmsApplication in 7.089 seconds (JVM running for 8.691)
+[INFO ] 2021-04-08 18:00:52.951 [main] UmsApplication - Starting UmsApplication using Java 14.0.1 on Windows10 with PID 2516 (C:\Users\Admin\Desktop\MACS\project\group-11\UMS\build\classes\java\main started by Admin in C:\Users\Admin\Desktop\MACS\project\group-11\UMS)
+[DEBUG] 2021-04-08 18:00:52.956 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 18:00:52.957 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 18:01:00.765 [main] UmsApplication - Started UmsApplication in 8.404 seconds (JVM running for 10.356)
+=======
+=======
+[INFO ] 2021-04-08 11:15:18.420 [main] UmsApplication - Starting UmsApplication using Java 15.0.2 on MSI with PID 5708 (C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS\build\classes\java\main started by prash in C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS)
+[DEBUG] 2021-04-08 11:15:18.424 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 11:15:18.424 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 11:15:23.123 [main] UmsApplication - Started UmsApplication in 4.975 seconds (JVM running for 5.828)
+[INFO ] 2021-04-08 11:17:27.536 [main] UmsApplication - Starting UmsApplication using Java 15.0.2 on MSI with PID 7808 (C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS\build\classes\java\main started by prash in C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS)
+[DEBUG] 2021-04-08 11:17:27.539 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 11:17:27.540 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 11:17:31.805 [main] UmsApplication - Started UmsApplication in 4.551 seconds (JVM running for 5.304)
+[INFO ] 2021-04-08 11:17:38.458 [main] UmsApplication - Starting UmsApplication using Java 15.0.2 on MSI with PID 6240 (C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS\build\classes\java\main started by prash in C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS)
+[DEBUG] 2021-04-08 11:17:38.461 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 11:17:38.461 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 11:17:42.728 [main] UmsApplication - Started UmsApplication in 4.501 seconds (JVM running for 5.149)
+[INFO ] 2021-04-08 11:18:52.281 [main] UmsApplication - Starting UmsApplication using Java 15.0.2 on MSI with PID 13116 (C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS\build\classes\java\main started by prash in C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS)
+[DEBUG] 2021-04-08 11:18:52.284 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 11:18:52.285 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 11:18:56.548 [main] UmsApplication - Started UmsApplication in 4.516 seconds (JVM running for 5.246)
+[INFO ] 2021-04-08 11:26:37.078 [main] UmsApplication - Starting UmsApplication using Java 15.0.2 on MSI with PID 13888 (C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS\build\classes\java\main started by prash in C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS)
+[DEBUG] 2021-04-08 11:26:37.081 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 11:26:37.081 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 11:26:41.542 [main] UmsApplication - Started UmsApplication in 4.69 seconds (JVM running for 5.388)
+[INFO ] 2021-04-08 13:31:59.070 [main] UmsApplication - Starting UmsApplication using Java 15.0.2 on MSI with PID 10232 (C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS\build\classes\java\main started by prash in C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS)
+[DEBUG] 2021-04-08 13:31:59.074 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 13:31:59.074 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 13:32:03.695 [main] UmsApplication - Started UmsApplication in 4.884 seconds (JVM running for 5.548)
+>>>>>>> herokutemp
+[INFO ] 2021-04-08 16:06:25.785 [main] UmsApplication - Starting UmsApplication using Java 15.0.2 on MSI with PID 9728 (C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS\build\classes\java\main started by prash in C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS)
+[DEBUG] 2021-04-08 16:06:25.789 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 16:06:25.790 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 16:06:31.207 [main] UmsApplication - Started UmsApplication in 5.764 seconds (JVM running for 6.66)
+[INFO ] 2021-04-08 16:43:28.598 [main] UmsApplication - Starting UmsApplication using Java 15.0.2 on MSI with PID 17012 (C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS\build\classes\java\main started by prash in C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS)
+[DEBUG] 2021-04-08 16:43:28.602 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 16:43:28.602 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 16:43:33.847 [main] UmsApplication - Started UmsApplication in 5.558 seconds (JVM running for 6.452)
+[INFO ] 2021-04-08 16:47:41.960 [main] UmsApplication - Starting UmsApplication using Java 15.0.2 on MSI with PID 12820 (C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS\build\classes\java\main started by prash in C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS)
+[DEBUG] 2021-04-08 16:47:41.964 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 16:47:41.965 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 16:47:47.126 [main] UmsApplication - Started UmsApplication in 5.489 seconds (JVM running for 6.374)
+[INFO ] 2021-04-08 16:51:20.459 [main] UmsApplication - Starting UmsApplication using Java 15.0.2 on MSI with PID 3664 (C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS\build\classes\java\main started by prash in C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS)
+[DEBUG] 2021-04-08 16:51:20.463 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 16:51:20.463 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 16:51:25.439 [main] UmsApplication - Started UmsApplication in 5.3 seconds (JVM running for 6.137)
+[INFO ] 2021-04-08 16:52:04.132 [main] UmsApplication - Starting UmsApplication using Java 15.0.2 on MSI with PID 11580 (C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS\build\classes\java\main started by prash in C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS)
+[DEBUG] 2021-04-08 16:52:04.136 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 16:52:04.137 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 16:52:08.878 [main] UmsApplication - Started UmsApplication in 5.024 seconds (JVM running for 5.826)
+[INFO ] 2021-04-08 16:54:14.667 [main] UmsApplication - Starting UmsApplication using Java 15.0.2 on MSI with PID 14864 (C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS\build\classes\java\main started by prash in C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS)
+[DEBUG] 2021-04-08 16:54:14.671 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 16:54:14.671 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 16:54:19.290 [main] UmsApplication - Started UmsApplication in 4.902 seconds (JVM running for 5.715)
+[INFO ] 2021-04-08 16:55:54.974 [main] UmsApplication - Starting UmsApplication using Java 15.0.2 on MSI with PID 8968 (C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS\build\classes\java\main started by prash in C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS)
+[DEBUG] 2021-04-08 16:55:54.978 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 16:55:54.979 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 16:55:59.462 [main] UmsApplication - Started UmsApplication in 4.751 seconds (JVM running for 5.488)
+[INFO ] 2021-04-08 16:57:27.603 [main] UmsApplication - Starting UmsApplication using Java 15.0.2 on MSI with PID 14360 (C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS\build\classes\java\main started by prash in C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS)
+[DEBUG] 2021-04-08 16:57:27.608 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 16:57:27.609 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 16:57:32.389 [main] UmsApplication - Started UmsApplication in 5.082 seconds (JVM running for 5.92)
+[INFO ] 2021-04-08 17:02:27.220 [main] UmsApplication - Starting UmsApplication using Java 15.0.2 on MSI with PID 11828 (C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS\build\classes\java\main started by prash in C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS)
+[DEBUG] 2021-04-08 17:02:27.225 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 17:02:27.226 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 17:02:32.050 [main] UmsApplication - Started UmsApplication in 5.212 seconds (JVM running for 6.097)
+[INFO ] 2021-04-08 17:05:56.313 [main] UmsApplication - Starting UmsApplication using Java 15.0.2 on MSI with PID 1884 (C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS\build\classes\java\main started by prash in C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS)
+[DEBUG] 2021-04-08 17:05:56.316 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 17:05:56.317 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 17:06:00.925 [main] UmsApplication - Started UmsApplication in 4.881 seconds (JVM running for 5.729)
+[INFO ] 2021-04-08 17:09:18.090 [main] UmsApplication - Starting UmsApplication using Java 15.0.2 on MSI with PID 10380 (C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS\build\classes\java\main started by prash in C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS)
+[DEBUG] 2021-04-08 17:09:18.094 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 17:09:18.094 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 17:09:22.816 [main] UmsApplication - Started UmsApplication in 5.036 seconds (JVM running for 5.83)
+[INFO ] 2021-04-08 17:16:13.613 [main] UmsApplication - Starting UmsApplication using Java 15.0.2 on MSI with PID 12108 (C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS\build\classes\java\main started by prash in C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS)
+[DEBUG] 2021-04-08 17:16:13.617 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 17:16:13.617 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 17:16:18.419 [main] UmsApplication - Started UmsApplication in 5.151 seconds (JVM running for 6.01)
+[INFO ] 2021-04-08 17:26:31.438 [main] UmsApplication - Starting UmsApplication using Java 15.0.2 on MSI with PID 10600 (C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS\build\classes\java\main started by prash in C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS)
+[DEBUG] 2021-04-08 17:26:31.442 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 17:26:31.443 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 17:26:36.296 [main] UmsApplication - Started UmsApplication in 5.201 seconds (JVM running for 5.984)
+[INFO ] 2021-04-08 17:34:59.339 [main] UmsApplication - Starting UmsApplication using Java 15.0.2 on MSI with PID 16004 (C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS\build\classes\java\main started by prash in C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS)
+[DEBUG] 2021-04-08 17:34:59.343 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 17:34:59.343 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 17:35:04.243 [main] UmsApplication - Started UmsApplication in 5.208 seconds (JVM running for 6.026)
+[INFO ] 2021-04-08 17:38:40.508 [main] UmsApplication - Starting UmsApplication using Java 15.0.2 on MSI with PID 4344 (C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS\build\classes\java\main started by prash in C:\Users\prash\OneDrive\Desktop\5308_project\group-11\UMS)
+[DEBUG] 2021-04-08 17:38:40.512 [main] UmsApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+[INFO ] 2021-04-08 17:38:40.512 [main] UmsApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2021-04-08 17:38:45.258 [main] UmsApplication - Started UmsApplication in 5.037 seconds (JVM running for 5.833)
+>>>>>>> 2f33b237a26a80db59ec77e55f7f3f119bec3a7c
