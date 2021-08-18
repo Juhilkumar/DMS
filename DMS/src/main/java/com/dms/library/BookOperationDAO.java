@@ -117,7 +117,6 @@ public class BookOperationDAO implements IBookOperationDAO {
         try {
             String returnBookQuery = "DELETE FROM BorrowBook WHERE bookId = " + bookID;
             connectionManager.executeWrite(returnBookQuery);
-//            addBookCount(bookID);
             return true;
         } catch (Exception e) {
             e.printStackTrace();
@@ -187,8 +186,6 @@ public class BookOperationDAO implements IBookOperationDAO {
         final String mailSubject = "Notification for Book";
         final String mailBody = "Hi there ! Book with bookId :" + bookId + " is now available in the library";
         try {
-//            int bookCount = getAvailableBookCount(bookId);
-//            if (bookCount > 0) {
                 String selectQuery = "SELECT userId FROM BookNotification WHERE bookId = '" + bookId + "'";
                 connectionManager.executeRead(selectQuery);
                 ResultSet resultSet = connectionManager.executeResult(selectQuery);
@@ -202,7 +199,6 @@ public class BookOperationDAO implements IBookOperationDAO {
 
                     this.deleteNotifyRequestFromBookNotification(userId);
                 }
-//            }
         } catch (SQLException e) {
             e.printStackTrace();
         } finally {

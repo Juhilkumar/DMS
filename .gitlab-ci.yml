@@ -1,75 +1,47 @@
-variables:
-  GIT_STRATEGY: clone
-  MAVEN_CLI_OPTS: "clean"
-  
-stages: 
+image: gradle:jdk15
+
+before_script:
+  - export GRADLE_USER_HOME=`pwd`/.gradle
+  - chmod +x UMS/gradlew
+
+stages:
   - build
   - test
   - deploy
-#  - master_deploy
-  
-build: 
-  stage: build
-  tags: 
-    - dalfcs_docker_kvm
-  script: 
-    - cd ./Deployment/5308Group3Project
-    - mvn $MAVEN_CLI_OPTS compile
 
-test: 
-  stage: test
-  tags: 
-    - dalfcs_docker_kvm
-  script: 
-    - cd ./Deployment/5308Group3Project
-    - mvn clean test
-#  artifacts:
-#    when: always
-#    reports:
-#      junit:
-#        - ./Deployment/5308Group3Project/target/surefire-reports/TEST-*.xml
-        
-#deploy:
-#  stage: deploy
-#  tags:
-#    - dalfcs_gitlab_docker_ci
-#  image: ruby:latest
-#  script:
-#    - cd ./Deployment/5308Group3Project
-#    - apt-get update -qy
-#    - apt-get install -y ruby-dev
-#    - gem install dpl
-#    - dpl --provider=heroku --app=$HEROKU_APP_TEST --api-key=$HEROKU_API_KEY
-#  only:
-#    - deployment
-    
-    
-deploy:
-  stage: deploy
-  image: maven:latest
+build:
+  stage: build
   script:
-    - cd ./Deployment/5308Group3Project
-    - gem install dpl
-    - dpl --provider=heroku --app=$HEROKU_APP_TEST --api-key=$HEROKU_API_KEY
-  environment:
-    name: staging
-    url: https://git.heroku.com/bankingapplication-group3.git
-  only:
-    - deployment
+    - cd UMS/
+    - ./gradlew assemble
   tags:
     - dalfcs_gitlab_docker_ci
 
+test:
+  stage: test
+  script:
+    - cd UMS/
+    - ./gradlew check
+  artifacts:
+    when: always
+    paths:
+      - UMS/build/test-results/test/TEST-*.xml
+    reports:
+      junit: UMS/build/test-results/test/TEST-*.xml
+  tags:
+    - dalfcs_gitlab_docker_ci
 
-#master_deploy:
-#  stage: master_deploy
-#  tags:
-#    - dalfcs_gitlab_docker_ci
-#  image: ruby:2.6
-#  script:
-#    - cd ./Deployment/5308Group3Project
-#    - apt-get update -qy
-#    - apt-get install -y ruby-dev
-#    - gem install dpl
-#    - dpl --provider=heroku --app=$HEROKU_PRODUCTION_APP_NAME --api-key=$HEROKU_PRODUCTION_API_KEY
-#  only:
-#    - master
+deploy:
+  stage: deploy
+  image: ruby:latest
+  script:
+    - cd UMS/
+    - gem install dpl
+    - dpl --provider=heroku --app=$HEROKU_APP_NAME --api-key=$HEROKU_API_KEY
+  environment:
+    name: staging
+    url: https://project5308.herokuapp.com/
+  only:
+    - branches
+  tags:
+    - dalfcs_gitlab_docker_ci
